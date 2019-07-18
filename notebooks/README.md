@@ -1,6 +1,6 @@
 ## Example notebooks
 
-The benefit of OpenCLSim is the generic set-up. This set-up allows the creation of complex logistical flows. You can run the following examples locally or as an [Azure notebook](https://notebooks.azure.com/home/projects).
+The benefit of OpenCLSim is the generic set-up. This set-up allows the creation of complex logistical flows. You can run the following examples locally or as an [Azure notebook](https://notebooks.azure.com/joris-denuijl/projects/OpenTNSim).
 
 1. **Defining a basic graph**
 2. **Defining a basic vessel**
