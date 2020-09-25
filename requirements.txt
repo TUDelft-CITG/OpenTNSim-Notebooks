@@ -1,1 +1,2 @@
 opentnsim
+pyproj>=2.3.0
